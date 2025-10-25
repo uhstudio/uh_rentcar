@@ -36,15 +36,11 @@ Website ini menampilkan tampilan elegan, animasi halus, dan antarmuka responsif 
 ## 📂 Struktur File
 ```plaintext 
 uh_rentcar/
-├── landing.html       # File utama (berisi HTML, CSS, dan JavaScript)
+├── index.html         # File utama
+├── script.js          # File Javascript
+├── style.css          # File css
 └── README.md          # Dokumentasi proyek 
 ```
----
-
-## 💡 Catatan
-
-- Website ini menggunakan CSS internal, sehingga semua tampilan dan animasi tertulis langsung di dalam file index.html.
-
 ---
 
 ## 🧑‍💻 Pengembang
